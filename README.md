@@ -40,6 +40,6 @@ Neste projeto atuei como desenvolvedor Front-End, buscando a acessibilidade de t
 Pode ser conferido na url: [Laboratório UniCEUB](https://laboratorio.uniceub.br/)
 
 # Contatos
->E-mail: marralucas1@gmail.com]  
+>E-mail: marralucas1@gmail.com  
 >WhatsApp: +55 61 998856381  
 >Telegram:  [Lucas Marra](https://t.me/kayjuv)
