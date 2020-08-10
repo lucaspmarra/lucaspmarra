@@ -8,7 +8,8 @@ Abaixo estão listadas as tecnologias que já usei ou até mesmo estudei:
 ![](https://img.shields.io/badge/CSS-B%C3%A1sico-brightgreen)  
 ![](https://img.shields.io/badge/JavaScript-B%C3%A1sico-brightgreen)  
 ![](https://img.shields.io/badge/JQuery-B%C3%A1sico-brightgreen)  
-![](https://img.shields.io/badge/Vue.js-Apenas%20estudos-blue)  
+![](https://img.shields.io/badge/Vue.js-Básico-blue)  
+![](https://img.shields.io/badge/Axios-Básico-blue)  
 ![](https://img.shields.io/badge/React%20Js-Apenas%20estudos-blue)
 
 ### Outras tecnologias
