@@ -4,7 +4,7 @@ Bem-vindos ao meu perfil!
 Sou entusiasta em desenvolvimento Front-End, iniciante na carreira de desenvolvimento.  
 Abaixo estão listadas as tecnologias que já usei ou até mesmo estudei:
 
-![](https://img.shields.io/badge/HTML-B%C3%A1sico-brightgreen)&nbsp;![](https://img.shields.io/badge/CSS-B%C3%A1sico-brightgreen)&nbsp;![](https://img.shields.io/badge/JavaScript-B%C3%A1sico-brightgreen)&nbsp;![](https://img.shields.io/badge/JQuery-B%C3%A1sico-brightgreen)&nbsp;![](https://img.shields.io/badge/Vue.js-Básico-blue)&nbsp;![](https://img.shields.io/badge/Axios-Básico-blue)&nbsp;![](https://img.shields.io/badge/React%20Js-Apenas%20estudos-blue)
+![](https://img.shields.io/badge/HTML-B%C3%A1sico-brightgreen)&nbsp;![](https://img.shields.io/badge/CSS-B%C3%A1sico-brightgreen)&nbsp;![](https://img.shields.io/badge/JavaScript-B%C3%A1sico-brightgreen)&nbsp;![](https://img.shields.io/badge/JQuery-B%C3%A1sico-brightgreen)&nbsp;![](https://img.shields.io/badge/Vue.js-Básico-blue)&nbsp;![](https://img.shields.io/badge/Axios-Básico-blue)&nbsp;![](https://img.shields.io/badge/React%20Js-Básico-blue)
 
 ### Outras tecnologias
 
