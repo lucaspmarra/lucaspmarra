@@ -19,13 +19,18 @@ Abaixo estão listadas as tecnologias que já usei ou até mesmo estudei:
 
 ## Estatísticas
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucaspmarra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img alt="" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucaspmarra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspmarra&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <div align="center">
 <img src="https://github.com/lucaspmarra/lucaspmarra/blob/output/github-contribution-grid-snake.svg"/>
 </div>
+<br>
+<!-- <div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lucaspmarra&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</div> -->
+
 
 ## Um resumo da minha vida  profissional
 
