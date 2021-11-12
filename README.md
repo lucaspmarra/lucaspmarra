@@ -17,6 +17,12 @@ Abaixo estão listadas as tecnologias que já usei ou até mesmo estudei:
 ![](https://img.shields.io/badge/Linux-Intermedi%C3%A1rio-red)  
 ![](https://img.shields.io/badge/Windows-Intermedi%C3%A1rio-red)
 
+## Estatísticas
+<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucaspmarra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspmarra&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ## Um resumo da minha vida  profissional
 
 Primeiro estágio em suporte técnico, onde ajudei a empresa a desenvolver novas Landings Pages, assim como melhorar seu SEO, buscando maneiras de deixar seu serviço mais responsivo e acessível para diferentes plataformas.
