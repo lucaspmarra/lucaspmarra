@@ -22,15 +22,27 @@ Abaixo estão listadas as tecnologias que já usei ou até mesmo estudei:
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucaspmarra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspmarra&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<br>
+<div align="center">
+<img src="https://github.com/lucaspmarra/lucaspmarra/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 ## Um resumo da minha vida  profissional
 
-Primeiro estágio em suporte técnico, onde ajudei a empresa a desenvolver novas Landings Pages, assim como melhorar seu SEO, buscando maneiras de deixar seu serviço mais responsivo e acessível para diferentes plataformas.
-Possuo experiência em leitura e extração de dados do Google Analytics, que usávamos para monitorar o tráfego do site, hotspot e Web Tools.
+Formado no UniCEUB, participei do projeto da criação do Sistema de Agendamentos de Exames para o Centro de Atendimento Comunitário do CEUB (https://laboratorio.uniceub.br/Home/Index) como responsável pelo Front-End do sistema, com ênfase em acessibilidade e UX para o usuário.
 
-Participei do programa Trainee na TOTVS, onde recebi treinamento para Implantação, Sustentação, Configuração e Suporte ao usuário do ERP Protheus. 
+Atualmente lotado na Seção de Suporte aos Sistemas Corporativos do Tribunal Regional Eleitoral de Goiás, onde presto suporte aos usuários do sistema jurídico PJE.
+Dou manutenção ao desenvolvimento da Intranet, na parte do Front-End, realizando alterações de conteúdo e layout.
+Desenvolvi a Central de Sistemas utilizando o Vue.js, SCCS e Vue Bootstrap, onde fiz uma central que acesso para todos os sistemas judiciais que os servidores do TRE-GO utilizam. https://apps.tre-go.jus.br/central-de-sistemas/
+Desenvolvi também utilizando Vue, um hotsite que facilita os eleitores do Estado de Goiás a se comunicar mais facilmente com os Cartórios de suas Zonas ou descobrir a qual região, aquela zona pertence, que teve grande aceitação pelo Tribunal, pelos Cartórios e os Eleitores, que pode ser acessado pelo link: https://apps.tre-go.jus.br/internet/contato-zonas/
 
-Após isso, atuei como Suporte N1 na Pavo Tecnologia, onde prestei suportes para clientes do Protheus, assim como desenvolvi a interface do Canal de Denúncias da empresa Dinâmica Facility, aqui de Brasília, pode ser conferido na url: [Canal de Denúncias - Dinâmica Facility](http://facility.pavo.net.br/#/principal/principal)
+Fui Trainee na TOTVS com treinamento em Sustentação, Configuração e Implantação do ERP Protheus, após esse período, fui contratado pela PAVO para prestar Suporte aos clientes Protheus como Analista N1.
+
+Conhecimento e certificado Professional Foundation em SCRUM (aplicação em aula e TCC) e DevOps.
+
+Conhecimento e experiência em SEO e no Google Search Console.
+
+REFERÊNCIA: Sérgio Cozzetti Bertoldi de Souza - Gerente de Desenvolvimento de Software no UniCEUB. +55 61 91197498
 
 ## Resumo dos projetos acadêmicos
 
