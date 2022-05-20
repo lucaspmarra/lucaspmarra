@@ -1,5 +1,5 @@
 # Lucaspmarra.md
-![](https://komarev.com/ghpvc/?lucaspmarra&style=for-the-badge)
+![](https://hit.yhype.me/github/profile?user_id=30451874)
 
 Bem-vindos ao meu perfil!
 
