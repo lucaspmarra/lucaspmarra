@@ -1,4 +1,6 @@
 # Lucaspmarra.md
+![](https://komarev.com/ghpvc/?lucaspmarra&style=for-the-badge)
+
 Bem-vindos ao meu perfil!
 
 Sou entusiasta em desenvolvimento Front-End, iniciante na carreira de desenvolvimento.  
