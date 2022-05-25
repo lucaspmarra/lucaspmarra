@@ -26,7 +26,7 @@ Abaixo estão listadas as tecnologias que já usei ou até mesmo estudei:
 </div>
 <br>
 <div align="center">
-<img src="https://github.com/lucaspmarra/lucaspmarra/blob/output/github-contribution-grid-snake.svg?palette=github-dark"/>
+<img src="https://github.com/lucaspmarra/lucaspmarra/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 <br>
 <!-- <div align="center">
