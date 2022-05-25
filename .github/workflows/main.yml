@@ -17,8 +17,7 @@ jobs:
        # with:
         #  github_user_name: lucaspmarra
         #  svg_out_path: dist/github-contribution-grid-dark-snake.svg
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate github-contribution-grid-dark-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: lucaspmarra
