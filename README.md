@@ -1,7 +1,7 @@
 # Lucaspmarra.md
 ![](https://hit.yhype.me/github/profile?user_id=30451874)
 
-Bem-vindos ao meu perfil!
+Bem-vindos ao meu perfil, acessem o seguinte link: [Lucas Marra Info](https://marra-portfolio.vercel.app/json/index.json)
 
 Sou entusiasta em desenvolvimento Front-End, iniciante na carreira de desenvolvimento.  
 Abaixo estão listadas as tecnologias que já usei ou até mesmo estudei:
