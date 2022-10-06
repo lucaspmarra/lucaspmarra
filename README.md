@@ -19,6 +19,8 @@ Bem-vindos ao meu perfil, mandem uma requisição GET para o seguinte link: <htt
 - Manipulação do DOM.
 - Funções.
 
+&nbsp;
+
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 - Conhecimento nas stacks:
@@ -33,13 +35,19 @@ Bem-vindos ao meu perfil, mandem uma requisição GET para o seguinte link: <htt
   - [TRE-GO - Central de Indicadores](https://apps.tre-go.jus.br/central-de-indicadores/#/)
   - [TRE-GO - Contato Zonas Eleitorais](http://intranet.tre-go.jus.br/contato-zonas/)
 
+&nbsp;
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 - Desenvolvimento e utilização de Proxy Server utilizando Node.js para bypass de CORS.
 
+&nbsp;
+
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 - Desenvolvimento de um servidor REST API com consulta no Banco Oracle.
+
+&nbsp;
 
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
@@ -48,32 +56,46 @@ Bem-vindos ao meu perfil, mandem uma requisição GET para o seguinte link: <htt
   - [TRE-GO - Espaço Bem Cuidar](https://apps.tre-go.jus.br/seats-bem-cuidar/)
 - Desenvolvimento de Client para Headless CMS Contentful.
 
+&nbsp;
+
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 - Utilização e do SASS em todos os projetos novos.
 - Conhecimentos de variáveis globais.
+
+&nbsp;
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - Conhecimentos básicos.
 - Conhecimentos de configuração para projeto.
 
+&nbsp;
+
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 - Teste de uso em APIs.
+
+&nbsp;
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 - Conhecimentos básicos de projeto e estrutura de projeto.
 - Criação de REST API.
 
+&nbsp;
+
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 - Utilização do Yarn como principal package manager.
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+&nbsp;
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 - Utilização do CI/CD do Github para compilar Vue.Js e enviar ao GH Pages.
+
+&nbsp;
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
