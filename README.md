@@ -9,14 +9,19 @@ Bem-vindos ao meu perfil, mandem uma requisição GET para o seguinte link: <htt
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) IS MY PASSION.
 
 &nbsp;
-### Entre em contato comigo
-<a href="https://api.whatsapp.com/send?phone=5561998856381">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>  
 
-<a href="https://www.linkedin.com/in/lucas-marra/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
+### Entre em contato comigo
+
+<a href="https://api.whatsapp.com/send?phone=5561998856381">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+
+<a href="https://t.me/kayjuv">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+
+<a href="https://www.linkedin.com/in/lucas-marra/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <a href="mailto:marralucas1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 &nbsp;
+
 ## Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -152,11 +157,5 @@ REFERÊNCIA: Sérgio Cozzetti Bertoldi de Souza - Gerente de Desenvolvimento de 
 Na carreira estudantil, participei de um projeto para a construção de um sistema que facilitasse o agendamento de exames para as famílias carentes e de baixo acesso ao centro da cidade, facilitando que elas conseguissem marcar seu exame na Clínica Médica do UniCEUB pela internet.
 Neste projeto atuei como desenvolvedor Front-End, buscando a acessibilidade de todos os usuários, mantendo a facilidade de acesso e leitura da interface.
 Pode ser conferido na url: [Laboratório UniCEUB](https://laboratorio.uniceub.br/)
-
-# Contatos
-
-> E-mail: marralucas1@gmail.com  
-> WhatsApp: +55 61 998856381  
-> Telegram: [Lucas Marra](https://t.me/kayjuv)
 
 ##### Badge reference: <https://github.com/Ileriayo/markdown-badges>
