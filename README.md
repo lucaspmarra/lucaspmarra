@@ -22,6 +22,10 @@ Bem-vindos ao meu perfil, mandem uma requisição GET para o seguinte link: <htt
 
 &nbsp;
 
+### REFERÊNCIAS
+
+Sérgio Cozzetti Bertoldi de Souza - Gerente de Desenvolvimento de Software no UniCEUB - <a href="https://api.whatsapp.com/send?phone=556191197498">+55 61 91197498</a>
+
 ## Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
