@@ -8,7 +8,7 @@ Bem-vindos ao meu perfil, mandem uma requisição GET para o seguinte link: <htt
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) IS MY PASSION.
 
-<a href="whatsapp://send?abid=+5561998856381">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="https://api.whatsapp.com/send?phone=+5561998856381">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 ## Conhecimentos
 
