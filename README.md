@@ -8,8 +8,15 @@ Bem-vindos ao meu perfil, mandem uma requisição GET para o seguinte link: <htt
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) IS MY PASSION.
 
-<a href="https://api.whatsapp.com/send?phone=5561998856381">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+&nbsp;
+### Entre em contato comigo
+<a href="https://api.whatsapp.com/send?phone=5561998856381">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>  
 
+<a href="https://www.linkedin.com/in/lucas-marra/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
+
+<a href="mailto:marralucas1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+&nbsp;
 ## Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
