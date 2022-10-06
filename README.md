@@ -8,6 +8,8 @@ Bem-vindos ao meu perfil, mandem uma requisição GET para o seguinte link: <htt
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) IS MY PASSION.
 
+<a href="whatsapp://send?abid=+5561998856381">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+
 ## Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -149,3 +151,5 @@ Pode ser conferido na url: [Laboratório UniCEUB](https://laboratorio.uniceub.br
 > E-mail: marralucas1@gmail.com  
 > WhatsApp: +55 61 998856381  
 > Telegram: [Lucas Marra](https://t.me/kayjuv)
+
+##### Badge reference: <https://github.com/Ileriayo/markdown-badges>
