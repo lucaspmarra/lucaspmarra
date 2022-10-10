@@ -2,8 +2,7 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=30451874)
 
-Bem-vindos ao meu perfil, mandem uma requisição GET para o seguinte link: <https://marra-portfolio.vercel.app/json/index.json>
-
+Bem-vindos ao meu perfil!
 ### Desenvolvedor Front-End com especialização em Vue.Js
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) IS MY PASSION.
