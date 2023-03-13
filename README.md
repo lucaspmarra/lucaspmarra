@@ -140,20 +140,32 @@ Sérgio Cozzetti Bertoldi de Souza - Gerente de Desenvolvimento de Software no U
 
 ## Um resumo da minha vida profissional
 
-Formado no UniCEUB, participei do projeto da criação do Sistema de Agendamentos de Exames para o Centro de Atendimento Comunitário do CEUB (<https://laboratorio.uniceub.br/Home/Index>) como responsável pelo Front-End do sistema, com ênfase em acessibilidade e UX para o usuário.
+- Graduação em Análise e Desenvolvimento de Sistemas no UniCEUB, com participação no desenvolvimento do Front-End do [Centro de Atendimento Comunitário do CEUB](https://laboratorio.uniceub.br/Home/Index), utilizando as tecnologias HTML, CSS e Javascript;
 
-Atualmente lotado na Seção de Suporte aos Sistemas Corporativos do Tribunal Regional Eleitoral de Goiás, onde presto suporte aos usuários do sistema jurídico PJE.
-Dou manutenção ao desenvolvimento da Intranet, na parte do Front-End, realizando alterações de conteúdo e layout.
-Desenvolvi a Central de Sistemas utilizando o Vue.js, SCCS e Vue Bootstrap, onde fiz uma central que acesso para todos os sistemas judiciais que os servidores do TRE-GO utilizam. <https://apps.tre-go.jus.br/central-de-sistemas/>
-Desenvolvi também utilizando Vue, um hotsite que facilita os eleitores do Estado de Goiás a se comunicar mais facilmente com os Cartórios de suas Zonas ou descobrir a qual região, aquela zona pertence, que teve grande aceitação pelo Tribunal, pelos Cartórios e os Eleitores, que pode ser acessado pelo link: <https://apps.tre-go.jus.br/internet/contato-zonas/>
 
-Fui Trainee na TOTVS com treinamento em Sustentação, Configuração e Implantação do ERP Protheus, após esse período, fui contratado pela PAVO para prestar Suporte aos clientes Protheus como Analista N1.
+- Atualmente alocado na Seção de Suporte aos Sistemas Corporativos (SESCO) do Tribunal Regional Eleitoral de Goiás, com atividades de Desenvolvimento, Sustentação, Manutenção de Sistemas Legados e Suporte aos usuários. Com passagem pela TOTVS como Analista de Implantação do ERP Protheus e Analista de Suporte N1 na PAVO Tecnologia;  
 
-Conhecimento e certificado Professional Foundation em SCRUM (aplicação em aula e TCC) e DevOps.
 
-Conhecimento e experiência em SEO e no Google Search Console.
+- Desenvolvimento de Microfrontends, Front-End e Hotsites utilizando Angular.js, Vue.js, Nuxt e Quasar;  
+- Desenvolvimento de Rest API's utilizando Node.js, Express, Raw Query's, Java e Springboot;  
+- Conhecimento em Banco de Dados Oracle, MySql e PostgreSQL;  
+- Experiência em ERP Protheus da TOTVS, implantação e sustentação nos módulos SIGACOM, SIGAFAT, SIGAFIN, SIGAEST, SIGACFG e ASPDU;  
+- Experiência em Suporte aos Usuários como N1 e N3;  
+- Experiência em SEO, Google Search Console e Google Analytics;  
+- Certificado SCRUM Foundation e DevOps Foundation;  
 
-REFERÊNCIA: Sérgio Cozzetti Bertoldi de Souza - Gerente de Desenvolvimento de Software no UniCEUB. +55 61 91197498
+
+- Microfrontend e Hotsites desenvolvidos com Vue.js para o Tribunal Regional Eleitoral de Goiás:  
+  - [Central de Sistemas](https://apps.tre-go.jus.br/central-de-sistemas/);  
+  - [Contato Cartórios do Estado de Goiás](https://apps.tre-go.jus.br/internet/contato-zonas/);  
+  - [Central de Indicadores Corregedoria](https://apps.tre-go.jus.br/central-de-indicadores/#/);  
+
+
+REFERÊNCIAS: 
+- Sérgio Cozzetti Bertoldi de Souza - Gerente de Desenvolvimento de Software no UniCEUB;  
+- Alexandre Einstein Barcelos Cunha - Analista Desenvolvedor no TRE-GO;  
+- Ramon de Freitas Elias Campos - Assessoria PJe no TRE-GO;  
+
 
 ## Resumo dos projetos acadêmicos
 
