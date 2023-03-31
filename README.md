@@ -2,7 +2,7 @@
 
 <!-- ![](https://hit.yhype.me/github/profile?user_id=30451874) -->
 
-![Header](./github-header-image.png)
+<img src="octocat.png" style="width: 250px" />
 
 &nbsp;
 
