@@ -3,6 +3,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=30451874)
 
 Bem-vindos ao meu perfil!
+
 ### Desenvolvedor Front-End com especialização em Vue.Js
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) IS MY PASSION.
@@ -137,6 +138,10 @@ Sérgio Cozzetti Bertoldi de Souza - Gerente de Desenvolvimento de Software no U
 <!-- <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=lucaspmarra&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div> -->
+
+[![](https://visitcount.itsvg.in/api?id=lucaspmarra&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Um resumo da minha vida profissional
 
