@@ -4,7 +4,11 @@
 
 Bem-vindos ao meu perfil!
 
-### Desenvolvedor Front-End com especialização em Vue.Js
+<img src="sammy-line-workflow.gif" alt="Illustration by Fruzka from Ouch!" align="center"/>
+
+### Desenvolvedor Front-End com especialização em Vue.Js  
+
+&nbsp;
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) IS MY PASSION.
 
