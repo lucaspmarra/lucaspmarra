@@ -1,10 +1,10 @@
 # Lucaspmarra.md
 
-![](https://hit.yhype.me/github/profile?user_id=30451874)
+<!-- ![](https://hit.yhype.me/github/profile?user_id=30451874) -->
 
-Bem-vindos ao meu perfil!
+![Header](./github-header-image.png)
 
-<img src="sammy-line-workflow.gif" alt="Illustration by Fruzka from Ouch!" align="center"/>
+&nbsp;
 
 ### Desenvolvedor Front-End com especialização em Vue.Js  
 
