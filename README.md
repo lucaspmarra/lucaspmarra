@@ -22,7 +22,6 @@ Bem-vindos ao meu perfil!
 
 &nbsp;
 
-
 ## Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,7 +40,7 @@ Bem-vindos ao meu perfil!
 - Conhecimento nas stacks:
   - vue-router
   - axios
-  - vuex
+  - pinia
   - composition api
   - options api
 - Desenvolvimento de páginas para consultas de dados internos.
@@ -60,7 +59,7 @@ Bem-vindos ao meu perfil!
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-- Desenvolvimento de um servidor REST API com consulta no Banco Oracle.
+- Desenvolvimento de REST API's diversas.
 
 &nbsp;
 
@@ -73,53 +72,24 @@ Bem-vindos ao meu perfil!
 
 &nbsp;
 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-- Utilização e do SASS em todos os projetos novos.
-- Conhecimentos de variáveis globais.
-
-&nbsp;
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-- Conhecimentos básicos.
-- Conhecimentos de configuração para projeto.
-
-&nbsp;
-
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-
-- Teste de uso em APIs.
-
-&nbsp;
-
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 - Conhecimentos básicos de projeto e estrutura de projeto.
 - Criação de REST API.
 
-&nbsp;
+&nbsp;  
 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
-- Utilização do Yarn como principal package manager.
-
-&nbsp;
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-- Utilização do CI/CD do Github para compilar Vue.Js e enviar ao GH Pages.
-
-&nbsp;
-
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)  
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)  
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)  
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)  
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
+
+&nbsp;  
 
 ## Estatísticas
 
@@ -140,13 +110,13 @@ Bem-vindos ao meu perfil!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+&nbsp;  
+
 ## Um resumo da minha vida profissional
 
 - Graduação em Análise e Desenvolvimento de Sistemas no UniCEUB, com participação no desenvolvimento do Front-End do [Centro de Atendimento Comunitário do CEUB](https://laboratorio.uniceub.br/Home/Index), utilizando as tecnologias HTML, CSS e Javascript;
 
-
 - Atualmente alocado na Seção de Suporte aos Sistemas Corporativos (SESCO) do Tribunal Regional Eleitoral de Goiás, com atividades de Desenvolvimento, Sustentação, Manutenção de Sistemas Legados e Suporte aos usuários. Com passagem pela TOTVS como Analista de Implantação do ERP Protheus e Analista de Suporte N1 na PAVO Tecnologia;  
-
 
 - Desenvolvimento de Microfrontends, Front-End e Hotsites utilizando Angular.js, Vue.js, Nuxt e Quasar;  
 - Desenvolvimento de Rest API's utilizando Node.js, Express, Raw Query's, Java e Springboot;  
@@ -156,18 +126,16 @@ Bem-vindos ao meu perfil!
 - Experiência em SEO, Google Search Console e Google Analytics;  
 - Certificado SCRUM Foundation e DevOps Foundation;  
 
-
 - Microfrontend e Hotsites desenvolvidos com Vue.js para o Tribunal Regional Eleitoral de Goiás:  
   - [Central de Sistemas](https://apps.tre-go.jus.br/central-de-sistemas/);  
   - [Contato Cartórios do Estado de Goiás](https://apps.tre-go.jus.br/internet/contato-zonas/);  
   - [Central de Indicadores Corregedoria](https://apps.tre-go.jus.br/central-de-indicadores/#/);  
 
+REFERÊNCIAS:
 
-REFERÊNCIAS: 
 - Sérgio Cozzetti Bertoldi de Souza - Gerente de Desenvolvimento de Software no UniCEUB;  
 - Alexandre Einstein Barcelos Cunha - Analista Desenvolvedor no TRE-GO;  
 - Ramon de Freitas Elias Campos - Assessoria PJe no TRE-GO;  
-
 
 ## Resumo dos projetos acadêmicos
 
