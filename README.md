@@ -13,8 +13,11 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) IS MY PASSION.
 
 &nbsp;
+<details>
+<summary style="font-size: 32px;">Versão em Português :smile:</summary>
 
-### Entre em contato comigo
+<details>
+<summary style="font-size: 24px;">Entre em contato</summary>
 
 <a href="https://api.whatsapp.com/send?phone=5561998856381">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
@@ -23,10 +26,12 @@
 <a href="https://www.linkedin.com/in/lucas-marra/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <a href="mailto:marralucas1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+</details>
 
 &nbsp;
 
-## Conhecimentos
+<details>
+<summary style="font-size: 24px;">Hard skills</summary>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -92,10 +97,12 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)  
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
+</details>
 
 &nbsp;  
 
-## Estatísticas
+<details>
+<summary style="font-size: 24px;">Estatísticas</summary>
 
 <div align="center">
 <img alt="" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucaspmarra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -106,17 +113,16 @@
 <img src="https://github.com/lucaspmarra/lucaspmarra/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 <br>
-<!-- <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lucaspmarra&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</div> -->
 
 [![](https://visitcount.itsvg.in/api?id=lucaspmarra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</details>
 
 &nbsp;  
 
-## Um resumo da minha vida profissional
+<details>
+<summary style="font-size: 24px;">Resumo Profissional</summary>
 
 - Graduação em Análise e Desenvolvimento de Sistemas no UniCEUB, com participação no desenvolvimento do Front-End do [Centro de Atendimento Comunitário do CEUB](https://laboratorio.uniceub.br/Home/Index), utilizando as tecnologias HTML, CSS e Javascript;
 
@@ -141,10 +147,17 @@ REFERÊNCIAS:
 - Alexandre Einstein Barcelos Cunha - Analista Desenvolvedor no TRE-GO;  
 - Ramon de Freitas Elias Campos - Assessoria PJe no TRE-GO;  
 
-## Resumo dos projetos acadêmicos
+</details>
+
+&nbsp;
+
+<details>
+<summary style="font-size: 24px">Resumo acadêmico</summary>
 
 Na carreira estudantil, participei de um projeto para a construção de um sistema que facilitasse o agendamento de exames para as famílias carentes e de baixo acesso ao centro da cidade, facilitando que elas conseguissem marcar seu exame na Clínica Médica do UniCEUB pela internet.
 Neste projeto atuei como desenvolvedor Front-End, buscando a acessibilidade de todos os usuários, mantendo a facilidade de acesso e leitura da interface.
 Pode ser conferido na url: [Laboratório UniCEUB](https://laboratorio.uniceub.br/)
+</details>
+</details>
 
 ##### Badge reference: <https://github.com/Ileriayo/markdown-badges>
