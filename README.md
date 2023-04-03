@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### Desenvolvedor Front-End com especialização em Vue.Js  
+### Desenvolvedor Front-End
 
 &nbsp;
 
