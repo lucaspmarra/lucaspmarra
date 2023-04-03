@@ -14,7 +14,7 @@
 
 &nbsp;
 <details>
-<summary style="font-size: 32px;">Versão em Português :smile:</summary>
+<summary size="4">Versão em Português :smile:</summary>
 
 <details>
 <summary style="font-size: 24px;">Entre em contato</summary>
