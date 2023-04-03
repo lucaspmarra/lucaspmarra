@@ -13,8 +13,6 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) IS MY PASSION.
 
 &nbsp;
-<details>
-<summary size="4">Versão em Português :smile:</summary>
 
 <details>
 <summary style="font-size: 24px;">Entre em contato</summary>
@@ -157,7 +155,6 @@ REFERÊNCIAS:
 Na carreira estudantil, participei de um projeto para a construção de um sistema que facilitasse o agendamento de exames para as famílias carentes e de baixo acesso ao centro da cidade, facilitando que elas conseguissem marcar seu exame na Clínica Médica do UniCEUB pela internet.
 Neste projeto atuei como desenvolvedor Front-End, buscando a acessibilidade de todos os usuários, mantendo a facilidade de acesso e leitura da interface.
 Pode ser conferido na url: [Laboratório UniCEUB](https://laboratorio.uniceub.br/)
-</details>
 </details>
 
 ##### Badge reference: <https://github.com/Ileriayo/markdown-badges>
