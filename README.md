@@ -116,9 +116,9 @@
 <div align="center">
 <img src="https://github.com/lucaspmarra/lucaspmarra/blob/output/github-contribution-grid-snake.svg"/>
 </div>
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucaspmarra?layout=compact"/>
-</div>
+</div> -->
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=lucaspmarra&icon=0&color=0)](https://visitcount.itsvg.in)
