@@ -1,30 +1,37 @@
-# Lucaspmarra.md
+<div align="center">
+  <h2> Olá, sou o Lucas!</h2>
+  <img src="octocat.png" style="width: 250px" />
+</div>
 
-<!-- ![](https://hit.yhype.me/github/profile?user_id=30451874) -->
-
-<img src="octocat.png" style="width: 250px" />
-
+<div align="center">
+<p>Desenvolvedor Front-End apaixonado por Vue.js e com hobby em Node.</p>
+<p>Entusiasta em estudos de Acessibilidade, UX e UI para usuários, otimização de SEO e desevolvimento Mobile First.</p>
+</div>
 &nbsp;
+<div align="center">
+  <a href="https://github.com/lucaspmarra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspmarra&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
-### Desenvolvedor Front-End
-
-&nbsp;
-
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) IS MY PASSION.
-
-&nbsp;
-
-<details>
-<summary style="font-size: 24px;">Entre em contato</summary>
-
-<a href="https://api.whatsapp.com/send?phone=5561998856381">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-
-<a href="https://t.me/kayjuv">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-
-<a href="https://www.linkedin.com/in/lucas-marra/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-<a href="mailto:marralucas1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-</details>
+</div> <br>
+  
+<div align="center">
+<br>
+<br>
+  <a href="https://www.linkedin.com/in/lucas-marra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:marralucas1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marralucas1@gmail.com"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5561998856381"><img src="https://img.shields.io/badge/-Whatsapp-gray?style=for-the-badge&logo=whatsapp&logoColor=" target="_blank"></a>
+</div>
 
 &nbsp;
 
@@ -104,7 +111,6 @@
 
 <div align="center">
 <img alt="" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucaspmarra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucaspmarra&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <div align="center">
