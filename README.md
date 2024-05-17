@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <div align="center">
   <h2> Olá, sou o Lucas!</h2>
   <img src="octocat.png" style="width: 250px" />
@@ -12,18 +14,33 @@
   <a href="https://github.com/lucaspmarra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspmarra&layout=compact&langs_count=7&theme=dracula&count_private=true&hide=HTML"/>
 </div>
-  
+
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Javascript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vue.js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3 Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Git Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Tailwind Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<i style="font-size: 32px" class="devicon-javascript-plain colored"></i>
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<i style="font-size: 32px" class="devicon-tailwindcss-original colored"></i>
+<i style="font-size: 32px" class="devicon-html5-plain-wordmark colored"></i>
+<i style="font-size: 32px" class="devicon-css3-plain-wordmark colored"></i>
+<i style="font-size: 32px" class="devicon-sass-original colored"></i>
+<i style="font-size: 32px" class="devicon-bootstrap-plain-wordmark colored"></i>
+<i style="font-size: 32px" class="devicon-git-plain colored"></i>
+<i style="font-size: 32px" class="devicon-nuxtjs-plain colored"></i>
+<i style="font-size: 32px" class="devicon-nodejs-plain-wordmark colored"></i>
+<i style="font-size: 32px" class="devicon-yarn-original colored"></i>
+<i style="font-size: 32px" class="devicon-axios-plain colored"></i>
+<i style="font-size: 32px" class="devicon-gitlab-plain colored"></i>
+<i style="font-size: 32px" class="devicon-typescript-plain colored"></i>
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+<i style="font-size: 32px" class="devicon-quasar-plain-wordmark colored"></i>
+<i style="font-size: 32px" class="devicon-postman-plain colored"></i>
+<i style="font-size: 32px" class="devicon-nestjs-original colored"></i>
+<i style="font-size: 32px" class="devicon-jest-plain colored"></i>
+<i style="font-size: 32px" class="devicon-graphql-plain-wordmark colored"></i>
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
+
 
 </div> <br>
-  
+
 <div align="center">
 <br>
 <br>
@@ -52,16 +69,16 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 - Conhecimento nas stacks:
-  - vue-router
-  - axios
-  - pinia
-  - composition api
-  - options api
+    - vue-router
+    - axios
+    - pinia
+    - composition api
+    - options api
 - Desenvolvimento de páginas para consultas de dados internos.
 - Desenvolvimento de Hotsites:
-  - [TRE-GO - Central de Sistemas](https://apps.tre-go.jus.br/central-de-sistemas/)
-  - [TRE-GO - Central de Indicadores](https://apps.tre-go.jus.br/central-de-indicadores/#/)
-  - [TRE-GO - Contato Zonas Eleitorais](http://intranet.tre-go.jus.br/contato-zonas/)
+    - [TRE-GO - Central de Sistemas](https://apps.tre-go.jus.br/central-de-sistemas/)
+    - [TRE-GO - Central de Indicadores](https://apps.tre-go.jus.br/central-de-indicadores/#/)
+    - [TRE-GO - Contato Zonas Eleitorais](http://intranet.tre-go.jus.br/contato-zonas/)
 
 &nbsp;
 
@@ -81,7 +98,7 @@
 
 - Desenvolvimento de SPA utilizando Nuxt 2, consumindo um servidor de REST API criado em Node.js (tópico acima).
 - Desenvolvimento de Hotsites:
-  - [TRE-GO - Espaço Bem Cuidar](https://apps.tre-go.jus.br/seats-bem-cuidar/)
+    - [TRE-GO - Espaço Bem Cuidar](https://apps.tre-go.jus.br/seats-bem-cuidar/)
 - Desenvolvimento de Client para Headless CMS Contentful.
 
 &nbsp;
@@ -91,7 +108,7 @@
 - Conhecimentos básicos de projeto e estrutura de projeto.
 - Criação de REST API.
 
-&nbsp;  
+&nbsp;
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)  
@@ -101,10 +118,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)  
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 </details>
 
-&nbsp;  
+&nbsp;
 
 <details>
 <summary style="font-size: 24px;">Estatísticas</summary>
@@ -126,33 +143,35 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </details>
 
-&nbsp;  
+&nbsp;
 
 <details>
 <summary style="font-size: 24px;">Resumo Profissional</summary>
 
-- Graduação em Análise e Desenvolvimento de Sistemas no UniCEUB, com participação no desenvolvimento do Front-End do [Centro de Atendimento Comunitário do CEUB](https://laboratorio.uniceub.br/Home/Index), utilizando as tecnologias HTML, CSS e Javascript;
+- Desenvolvimento do [Centro de Atendimento Comunitário do CEUB](https://laboratorio.uniceub.br/Home/Index), utilizando as tecnologias
+  HTML, CSS e Javascript, JQuery e Boostrap;
+- Desenvolvimento de dashboard whitelabel para vários clientes, proporcionando-lhes uma ferramenta de gerenciamento personalizada e eficiente.
+- Criação de componentes web para uso em páginas estáticas de clientes, melhorando a interface do usuário e a experiência do usuário.
+- Desenvolvimento de scripts personalizados e GA4, otimizando o desempenho do site e melhorando as métricas do site.
+- Desenvolvimento de Microfrontends, Front-End e Hotsites utilizando Vue.js, Nuxt e Quasar;
+- Desenvolvimento de Rest API's utilizando Node.js, Express, Raw Query's, Java e Springboot;
+- Conhecimento em Banco de Dados Oracle, MySql e PostgreSQL;
+- Experiência em ERP Protheus da TOTVS, implantação e sustentação nos módulos SIGACOM, SIGAFAT, SIGAFIN, SIGAEST,
+  SIGACFG e ASPDU;
+- Experiência em Suporte aos Usuários como N1 e N3;
+- Experiência em SEO, Google Search Console e Google Analytics;
+- Certificado SCRUM Foundation e DevOps Foundation;
 
-- Atualmente alocado na Seção de Suporte aos Sistemas Corporativos (SESCO) do Tribunal Regional Eleitoral de Goiás, com atividades de Desenvolvimento, Sustentação, Manutenção de Sistemas Legados e Suporte aos usuários. Com passagem pela TOTVS como Analista de Implantação do ERP Protheus e Analista de Suporte N1 na PAVO Tecnologia;  
-
-- Desenvolvimento de Microfrontends, Front-End e Hotsites utilizando Angular.js, Vue.js, Nuxt e Quasar;  
-- Desenvolvimento de Rest API's utilizando Node.js, Express, Raw Query's, Java e Springboot;  
-- Conhecimento em Banco de Dados Oracle, MySql e PostgreSQL;  
-- Experiência em ERP Protheus da TOTVS, implantação e sustentação nos módulos SIGACOM, SIGAFAT, SIGAFIN, SIGAEST, SIGACFG e ASPDU;  
-- Experiência em Suporte aos Usuários como N1 e N3;  
-- Experiência em SEO, Google Search Console e Google Analytics;  
-- Certificado SCRUM Foundation e DevOps Foundation;  
-
-- Microfrontend e Hotsites desenvolvidos com Vue.js para o Tribunal Regional Eleitoral de Goiás:  
-  - [Central de Sistemas](https://apps.tre-go.jus.br/central-de-sistemas/);  
-  - [Contato Cartórios do Estado de Goiás](https://apps.tre-go.jus.br/internet/contato-zonas/);  
-  - [Central de Indicadores Corregedoria](https://apps.tre-go.jus.br/central-de-indicadores/#/);  
+- Microfrontend e Hotsites desenvolvidos com Vue.js para o Tribunal Regional Eleitoral de Goiás:
+    - [Central de Sistemas](https://apps.tre-go.jus.br/central-de-sistemas/);
+    - [Contato Cartórios do Estado de Goiás](https://apps.tre-go.jus.br/internet/contato-zonas/);
+    - [Central de Indicadores Corregedoria](https://apps.tre-go.jus.br/central-de-indicadores/#/);
 
 REFERÊNCIAS:
 
-- Sérgio Cozzetti Bertoldi de Souza - Gerente de Desenvolvimento de Software no UniCEUB;  
-- Alexandre Einstein Barcelos Cunha - Analista Desenvolvedor no TRE-GO;  
-- Ramon de Freitas Elias Campos - Assessoria PJe no TRE-GO;  
+- Sérgio Cozzetti Bertoldi de Souza - Gerente de Desenvolvimento de Software no UniCEUB;
+- Alexandre Einstein Barcelos Cunha - Analista Desenvolvedor no TRE-GO;
+- Ramon de Freitas Elias Campos - Assessoria PJe no TRE-GO;
 
 </details>
 
@@ -161,9 +180,12 @@ REFERÊNCIAS:
 <details>
 <summary style="font-size: 24px">Resumo acadêmico</summary>
 
-Na carreira estudantil, participei de um projeto para a construção de um sistema que facilitasse o agendamento de exames para as famílias carentes e de baixo acesso ao centro da cidade, facilitando que elas conseguissem marcar seu exame na Clínica Médica do UniCEUB pela internet.
-Neste projeto atuei como desenvolvedor Front-End, buscando a acessibilidade de todos os usuários, mantendo a facilidade de acesso e leitura da interface.
+Na carreira estudantil, participei de um projeto para a construção de um sistema que facilitasse o agendamento de exames
+para as famílias carentes e de baixo acesso ao centro da cidade, facilitando que elas conseguissem marcar seu exame na
+Clínica Médica do UniCEUB pela internet.
+Neste projeto atuei como desenvolvedor Front-End, buscando a acessibilidade de todos os usuários, mantendo a facilidade
+de acesso e leitura da interface.
 Pode ser conferido na url: [Laboratório UniCEUB](https://laboratorio.uniceub.br/)
 </details>
 
-##### Badge reference: <https://github.com/Ileriayo/markdown-badges>
+##### Badge reference: <https://devicon.dev/>
